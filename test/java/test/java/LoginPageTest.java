@@ -3,7 +3,6 @@ package test.java;
 import dev.effective.autotest.TestBase;
 import dev.effective.autotest.pages.LoginPage;
 import dev.effective.autotest.pages.PatientsPage;
-import dev.effective.autotest.pages.SubmitTestDataPage;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.AfterClass;
 import org.junit.Assert;
